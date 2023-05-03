@@ -1,0 +1,491 @@
+{
+  "chefs": [
+    {
+      "id": 1,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848010-bc35e8ad-64e0-4512-bc22-4ca01a81dccf.jpg",
+      "chef_name": "Sanjeev Kapoor",
+      "bio": "India's first celebrity chef, cookbook author, and host of popular TV cooking show Khana Khazana",
+      "years_of_experience": 30,
+      "number_of_recipes": 10,
+      "likes": 5000000,
+      "recipes": [
+        {
+          "_id": 1,
+          "recipe_name": "Butter Chicken",
+          "ingredients": [
+            "500 g boneless chicken, cut into bite-size pieces",
+            "1 cup yogurt",
+            "2 onions, finely chopped",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 tomatoes, pureed",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons butter",
+            "2 tablespoons cream",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make butter chicken, marinate the chicken pieces in yogurt, salt, and red chili powder for 30 minutes. Heat the butter in a pan and sauté the onions until they are golden brown. Add the ginger paste, garlic paste, green chilies, cumin seeds, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the tomato puree and cook until the oil separates. Add the marinated chicken and mix well. Cook for 10-15 minutes until the chicken is cooked through. Add cream and salt to taste. Serve hot with naan or rice.",
+          "rating": 4.7,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848248-6833f97d-7cd7-4415-8ccd-123329db30bf.jpeg"
+        },
+        {
+          "_id": 2,
+          "recipe_name": "Mutton Rogan Josh",
+          "ingredients": [
+            "500 g mutton, cut into bite-size pieces",
+            "2 onions, finely chopped",
+            "2 tablespoons ginger paste",
+            "2 tablespoons garlic paste",
+            "3 tomatoes, pureed",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make mutton rogan josh, heat the oil in a pressure cooker and sauté the onions until they are golden brown. Add the ginger paste, garlic paste, green chilies, cumin seeds, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the tomato puree and cook until the oil separates. Add the mutton and salt to taste and mix well. Add enough water to cover the mutton and pressure cook for 3-4 whistles or until the mutton is tender. Serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848241-f06296d1-7ca7-4b85-9bc3-26c32c439b77.jpg"
+        },
+        {
+          "_id": 3,
+          "recipe_name": "Aloo Gobi",
+          "ingredients": [
+            "2 cups cauliflower florets",
+            "1 large potato, peeled and cubed",
+            "2 tomatoes, chopped",
+            "1 onion, chopped",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make aloo gobi, heat the oil in a pan and add the cumin seeds. Once they start to splutter, add the chopped onion and green chilies and sauté until the onion turns golden brown. Add the ginger paste, garlic paste, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the chopped tomatoes and cook until they become soft and mushy. Add the cubed potato and cauliflower florets and mix well. Add salt to taste and enough water to cover the vegetables. Cover the pan and let the vegetables cook on medium heat until they become tender. Serve hot with naan or rice.",
+          "rating": 4.2,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848246-fef96d75-c659-4a23-bb44-f1473fed5b34.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848021-ef41177b-273e-47b9-9671-91f0272f6f2a.jpg",
+      "chef_name": "Vikas Khanna",
+      "bio": "Michelin-starred chef, restaurateur, cookbook author, and judge on MasterChef India.",
+      "years_of_experience": 20,
+      "number_of_recipes": 8,
+      "likes": 3000000,
+      "recipes": [
+        {
+          "_id": 4,
+          "recipe_name": "Dal Makhani",
+          "ingredients": [
+            "1 cup black gram (urad dal), soaked overnight",
+            "2 tablespoons red kidney beans (rajma), soaked overnight",
+            "2 onions, finely chopped",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 tomatoes, pureed",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons butter",
+            "2 tablespoons cream",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make dal makhani, pressure cook the soaked black gram and red kidney beans with 3 cups of water, salt, and a pinch of baking soda until they are soft and tender. Meanwhile, heat the butter in a pan and sauté the onions until they are golden brown. Add the ginger paste, garlic paste, green chilies, cumin seeds, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the tomato puree and cook until the oil separates. Add the cooked black gram and red kidney beans, along with the water, and mix well. Simmer for 20-25 minutes until the dal thickens. Add cream and salt to taste. Serve hot with naan or rice.",
+          "rating": 4.6,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848307-92b3194c-c991-485d-a579-872902e18d51.jpg"
+        },
+        {
+          "_id": 5,
+          "recipe_name": "Chicken Tikka Masala",
+          "ingredients": [
+            "500 g boneless chicken, cut into bite-size pieces",
+            "1 cup yogurt",
+            "2 onions, finely chopped",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 tomatoes, pureed",
+            "2 green chilies, slit",
+            "1 teaspoon cumin seeds",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons oil",
+            "2 tablespoons cream",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make chicken tikka masala, marinate the chicken pieces in yogurt, salt, and red chili powder for 30 minutes. Heat the oil in a pan and sauté the onions until they are golden brown. Add the ginger paste, garlic paste, green chilies, cumin seeds, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the tomato puree and cook until the oil separates. Add the marinated chicken and mix well. Cook for 10-15 minutes until the chicken is cooked through. Add cream and salt to taste. Serve hot with naan or rice.",
+          "rating": 4.8,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848267-58e6aef1-12d8-49fb-aa1e-dfae373e7734.jpg"
+        },
+        {
+          "_id": 6,
+          "recipe_name": "Paneer Butter Masala",
+          "ingredients": [
+            "200 g paneer, cubed",
+            "2 onions, chopped",
+            "1 tablespoon ginger paste",
+            "1 tablespoon garlic paste",
+            "2 tomatoes, pureed",
+            "2 green chilies, slit",
+            "1 teaspoon coriander powder",
+            "1 teaspoon garam masala powder",
+            "1 teaspoon red chili powder",
+            "3 tablespoons butter",
+            "2 tablespoons cream",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make paneer butter masala, heat 1 tablespoon of butter in a pan and sauté the paneer cubes until they are golden brown. Remove from the pan and keep aside. In the same pan, heat 2 tablespoons of butter and sauté the onions until they are golden brown. Add the ginger paste, garlic paste, green chilies, cumin seeds, coriander powder, garam masala powder, and red chili powder and fry until the raw smell goes away. Add the tomato puree and cook until the oil separates. Add water and salt to taste and bring it to a boil. Add the sautéed paneer and simmer for 10 minutes until the paneer is soft and absorbs the flavors. Add cream and mix well. Serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848210-140ea5db-78c8-4c06-9ec3-d996967a6cff.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848019-c1f37731-ee3a-4f06-aa0e-d9853718715e.jpg",
+      "chef_name": "Tarla Dalal",
+      "bio": "Pioneering cookbook author, food writer, and host of cooking shows who revolutionized Indian vegetarian cooking.",
+      "years_of_experience": 40,
+      "number_of_recipes": 15,
+      "likes": 2000000,
+      "recipes": [
+        {
+          "_id": 7,
+          "recipe_name": "Chana Masala",
+          "ingredients": [
+            "1 cup chickpeas, soaked overnight",
+            "2 onions, chopped",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make chana masala, pressure cook the soaked chickpeas with 3 cups of water, salt, and a pinch of baking soda until they are soft and tender. Meanwhile, heat the oil in a pan and sauté the onions until they are golden brown. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the cooked chickpeas along with the water and mix well. Simmer for 10-15 minutes until the gravy is thickened. Serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848256-5080ec72-818d-4bc2-bff2-ddbd381300b4.jpg"
+        },
+        {
+          "_id": 8,
+          "recipe_name": "Palak Paneer",
+          "ingredients": [
+            "200 g paneer, cubed",
+            "2 cups spinach leaves, blanched",
+            "1 onion, chopped",
+            "1 tomato, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1/4 cup cream",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make palak paneer, first blanch the spinach leaves in boiling water for 2-3 minutes. Drain and blend them to a smooth puree. Heat the oil in a pan and sauté the onions until they are golden brown. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the spinach puree and mix well. Cook for 2-3 minutes and add the cubed paneer. Simmer for 5-7 minutes until the paneer is cooked through. Add cream and salt to taste. Serve hot with naan or rice.",
+          "rating": 4.7,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848204-339648a2-5b77-4115-bc12-924f3214d72e.jpg"
+        },
+        {
+          "_id": 9,
+          "recipe_name": "Gulab Jamun",
+          "ingredients": [
+            "1 cup milk powder",
+            "1/4 cup all-purpose flour",
+            "1 tsp baking powder",
+            "2 tbsp ghee",
+            "1/4 cup milk",
+            "Oil for frying",
+            "For the syrup:",
+            "1 cup sugar",
+            "1 cup water",
+            "2-3 cardamom pods, crushed",
+            "1 tsp rose water"
+          ],
+          "method": "To make gulab jamun, first make the syrup by heating the sugar, water, crushed cardamom pods, and rose water in a pan until the sugar dissolves. Keep the syrup warm. Meanwhile, mix the milk powder, all-purpose flour, and baking powder in a bowl. Add the ghee and mix well. Add the milk gradually to make a soft dough. Knead the dough lightly and shape into small balls. Heat the oil in a pan and fry the balls until they are golden brown. Drain and immerse them inthe warm syrup for 30 minutes. Serve warm or cold.",
+
+          "rating": 4.3,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848180-8429b8ff-7751-4642-9736-2ed0e6420a2d.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848001-0f75b1bc-4988-4ece-93ba-3300460490c0.jpg",
+      "chef_name": "Ranveer Brar",
+      "bio": "Award-winning chef, restaurateur, cookbook author, and judge on MasterChef India and other TV cooking shows.",
+      "years_of_experience": 18,
+      "number_of_recipes": 5,
+      "likes": 1500000,
+      "recipes": [
+        {
+          "_id": 10,
+          "recipe_name": "Dal Bukhara",
+          "ingredients": [
+            "1 cup whole black lentils, soaked overnight",
+            "1/4 cup kidney beans, soaked overnight",
+            "2 onions, chopped",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1/4 cup cream",
+            "2 tbsp butter",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make dal bukhara, first pressure cook the soaked lentils and kidney beans with 4 cups of water, salt, and a pinch of baking soda until they are soft and tender. Meanwhile, heat the oil in a pan and sauté the onions until they are golden brown. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the cooked lentils and beans along with the water and mix well. Simmer for 10-15 minutes until the gravy is thickened. Add the cream and butter and mix well. Serve hot with naan or rice.",
+          "rating": 4.6,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848306-9041c017-3857-42c9-9035-d721d05d9344.jpg"
+        },
+        {
+          "_id": 11,
+          "recipe_name": "Chicken Biryani",
+          "ingredients": [
+            "1 kg chicken, cut into pieces",
+            "2 cups basmati rice, soaked for 30 minutes",
+            "2 onions, sliced",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1/2 cup yogurt",
+            "1/2 cup milk",
+            "2 tbsp ghee",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make chicken biryani, first marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, garam masala, red chili powder, and salt for at least 1 hour. Heat the oil and ghee in a pan and sauté the onions until they are golden brown. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the marinated chicken and cook until it is partially cooked. Meanwhile, boil the soaked rice until it is half cooked. Layer the partially cooked chicken and rice in a large pot, and sprinkle with milk. Cover and cook on low heat for 20-25 minutes until the rice and chicken are fully cooked. Serve hot with raita and papad.",
+          "rating": 4.8,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848263-567127d5-f874-46d7-b35a-586da8263282.jpg"
+        },
+        {
+          "_id": 12,
+          "recipe_name": "Paneer Makhani",
+          "ingredients": [
+            "200 g paneer, cubed",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1/4 cup cream",
+            "2 tbsp butter",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make paneer makhani, first heat the oil in a pan and add cumin seeds. Once they start to splutter, add the chopped tomatoes, ginger paste, garlic paste, coriander powder, garam masala, red chili powder, and salt. Cook until the tomatoes are soft and pulpy. Then, blend the mixture to make a smooth puree. Heat the butter in a pan and add the puree to it. Cook for 2-3 minutes until the puree starts to thicken. Add the cubed paneer and mix well. Simmer for 5-7 minutes until the paneer is cooked through. Add the cream and mix well. Garnish with fresh coriander leaves and serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848215-be4e21f8-6b4c-4dcb-a3f9-6ee68eda0d9f.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848015-8104c9fd-8a9a-4265-ac9d-1937fe96da4d.jpg",
+      "chef_name": "Saransh Goila",
+      "bio": "Youngest chef to host his own TV cooking show Roti Rasta aur India, cookbook author, and restaurateur.",
+      "years_of_experience": 12,
+      "number_of_recipes": 4,
+      "likes": 1000000,
+      "recipes": [
+        {
+          "_id": 13,
+          "recipe_name": "Butter Chicken",
+          "ingredients": [
+            "500 g boneless chicken",
+            "1/2 cup yogurt",
+            "2 tbsp ginger paste",
+            "2 tbsp garlic paste",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1 tsp kasoori methi",
+            "1/2 cup tomato puree",
+            "1/4 cup heavy cream",
+            "2 tbsp butter",
+            "2 tbsp oil",
+            "Salt to taste"
+          ],
+          "method": "To make butter chicken, first marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, turmeric powder, garam masala, red chili powder, kasoori methi, and salt for at least 1 hour. Preheat the oven to 375°F and place the marinated chicken on a baking sheet. Bake for 20-25 minutes until the chicken is cooked through. Meanwhile, heat the oil in a pan and sauté the tomato puree until it is cooked down and thick. Add the butter and heavy cream and stir well. Add the cooked chicken to the pan and simmer for 5-7 minutes. Serve hot with naan or rice.",
+          "rating": 4.7,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848252-f9650673-5053-4fb6-aa71-d699a8c64ca4.jpg"
+        },
+        {
+          "_id": 14,
+          "recipe_name": "Rajma Chawal",
+          "ingredients": [
+            "1 cup kidney beans, soaked overnight",
+            "2 onions, chopped",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required",
+            "Cooked rice, to serve"
+          ],
+          "method": "To make rajma chawal, first pressure cook the soaked kidney beans with 3 cups of water, salt, and a pinch of baking soda until they are soft and tender. Meanwhile, heat the oil in a pan and sauté the onions until they are golden brown. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the cooked kidney beans along with the water and mix well. Simmer for 10-15 minutes until the gravy is thickened. Serve hot with cooked rice.",
+          "rating": 4.4,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848234-dd2355b0-3ba0-490f-ae8e-5474bec71b06.jpg"
+        },
+        {
+          "_id": 15,
+          "recipe_name": "Matar Paneer",
+          "ingredients": [
+            "1 cup paneer, cubed",
+            "1 cup green peas, boiled",
+            "2 onions, chopped",
+            "2 tomatoes, chopped",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1 tsp red chili powder",
+            "1/2 cup milk",
+            "2 tbsp oil",
+            "Salt to taste",
+            "Water as required"
+          ],
+          "method": "To make matar paneer, first heatthe oil in a pan and sauté the onions until they are translucent. Add the chopped tomatoes, ginger paste, garlic paste, cumin seeds, coriander powder, garam masala, and red chili powder and fry until the tomatoes are soft. Add the cubed paneer, boiled green peas, and salt to taste. Mix well and simmer for 2-3 minutes. Add the milk and stir well. Simmer for another 2-3 minutes until the gravy thickens. Serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848190-a015ae20-4a02-419f-86e1-4c8a23795708.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chef_picture": "https://user-images.githubusercontent.com/57280365/235848007-dd1e7333-541a-418f-8577-3a6657825e0f.jpg",
+      "chef_name": "Sanjay Thumma",
+      "bio": "Founder of popular Indian food website Vahrehvah.com, cookbook author, and YouTube cooking show host.",
+      "years_of_experience": 15,
+      "number_of_recipes": 8,
+      "likes": 3000000,
+      "recipes": [
+        {
+          "_id": 16,
+          "recipe_name": "Hyderabadi Biryani",
+          "ingredients": [
+            "1 kg basmati rice",
+            "1 kg chicken",
+            "2 onions, sliced",
+            "2 tomatoes, chopped",
+            "2 tbsp ginger-garlic paste",
+            "1 cup yogurt",
+            "1 tsp red chili powder",
+            "1 tsp turmeric powder",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1 tsp garam masala",
+            "1/2 cup oil",
+            "Salt to taste"
+          ],
+          "method": "To make Hyderabadi biryani, first marinate the chicken with yogurt, ginger-garlic paste, red chili powder, turmeric powder, cumin powder, coriander powder, garam masala, and salt for at least 2 hours. Meanwhile, soak the rice in water for 30 minutes. Then, heat the oil in a large pan and fry the onions until they are golden brown. Add the chopped tomatoes and fry until they are soft. Now, add the marinated chicken and fry for 10-12 minutes. In a separate pot, boil the rice until it is partially cooked. Drain the water from the rice and add half of it to the chicken mixture. Layer the remaining rice on top of the chicken and sprinkle some fried onions on top. Cover the pot with a tight-fitting lid and cook over low heat for 20-25 minutes. Serve hot with raita and salad.",
+          "rating": 4.8,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848187-13a8d3ea-fea9-441b-b531-1ab14cf29ea1.jpg"
+        },
+        {
+          "_id": 17,
+          "recipe_name": "Chicken Tikka Masala",
+          "ingredients": [
+            "500 g boneless chicken",
+            "1/2 cup yogurt",
+            "1 tsp ginger paste",
+            "1 tsp garlic paste",
+            "1 tsp cumin powder",
+            "1 tsp coriander powder",
+            "1 tsp paprika",
+            "1 tsp garam masala",
+            "1 tsp turmeric powder",
+            "1 tsp salt",
+            "2 tbsp oil",
+            "1 onion, finely chopped",
+            "1 tomato, chopped",
+            "1 green bell pepper, chopped",
+            "1/4 cup heavy cream",
+            "2 tbsp chopped cilantro leaves"
+          ],
+          "method": "To make chicken tikka masala, first marinate the chicken with yogurt, ginger paste, garlic paste, cumin powder, coriander powder, paprika, garam masala, turmeric powder, and salt for 30 minutes. Preheat the oven to 375°F and place the marinated chicken on a baking sheet. Bake for 15-20 minutes until the chicken is cooked through. Meanwhile, heat the oil in a pan and sauté the onions until they are soft. Add the chopped tomatoes and green bell pepper and fry until the tomatoes are soft. Add the cooked chicken to the pan and stir well. Add the heavy cream and chopped cilantro leaves and simmer for 5-7 minutes. Serve hot with naan or rice.",
+          "rating": 4.5,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848274-828afb3d-b302-40b9-a212-185a249ecc1f.jpg"
+        },
+        {
+          "_id": 18,
+          "recipe_name": "Chole Bhature",
+          "ingredients": [
+            "1 cup chickpeas, soaked overnight",
+            "1 onion, chopped",
+            "1 tomato, chopped",
+            "1 green chili, chopped",
+            "1 tbsp ginger paste",
+            "1 tbsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp cumin powder",
+            "1 tsp garam masala",
+            "1 tsp turmeric powder",
+            "1 tsp red chili powder",
+            "1/4 cup oil",
+            "Salt to taste",
+            "2 cups all-purpose flour",
+            "1/2 cup semolina",
+            "1/2 cup yogurt",
+            "1/2 tsp baking powder",
+            "1/2 tsp baking soda",
+            "1 tsp salt",
+            "Oil for frying"
+          ],
+          "method": "To make chole bhature, first pressure cook the soaked chickpeas with water and salt until they are tender. Heat oil in a pan and add cumin seeds. Once they splutter, add chopped onion, ginger paste, garlic paste, and green chili. Fry until the onion turns golden brown. Now add chopped tomato, coriander powder, cumin powder, garam masala, turmeric powder, red chili powder, and salt. Fry until the tomato turns soft and oil starts to separate. Add the cooked chickpeas and simmer for 10-15 minutes. For bhature, mix all-purpose flour, semolina, yogurt, baking powder, baking soda, and salt. Knead the dough with water and let it rest for 1 hour. Heat oil in a pan for frying. Roll the dough into small balls and flatten them into circular shapes. Fry them in hot oil until they puff up and turn golden brown. Serve hot with chole.",
+          "rating": 4.6,
+          "recipe_image": "https://user-images.githubusercontent.com/57280365/235848303-e3317644-7a75-4a00-9fc0-69394815b602.jpg"
+        }
+      ]
+    }
+  ]
+}
