@@ -1,0 +1,35 @@
+{
+    "tips": [
+      {
+        "id": 1,
+        "title": "Use a pressure cooker to cook lentils and beans faster",
+        "description": "Pressure cookers can significantly reduce the cooking time of lentils and beans, making them soft and tender in no time. This is particularly useful when making dishes like dal or rajma."
+      },
+      {
+        "id": 2,
+        "title": "Add a teaspoon of sugar to tomato-based dishes to balance acidity",
+        "description": "Tomato-based dishes like curries or sauces can often be too acidic. Adding a teaspoon of sugar can help balance the acidity and enhance the flavors of the dish."
+      },
+      {
+        "id": 3,
+        "title": "Use yogurt to tenderize meat",
+        "description": "Marinating meat in yogurt can help tenderize it and infuse it with flavor. This is particularly useful for tougher cuts of meat like mutton or goat."
+      },
+      {
+        "id": 4,
+        "title": "Roast spices before grinding for better flavor",
+        "description": "Roasting whole spices like cumin or coriander before grinding them can enhance their flavors and aromas. Simply heat them in a dry pan for a few minutes until fragrant, then grind them in a spice grinder or mortar and pestle."
+      },
+      {
+        "id": 5,
+        "title": "Cook onions low and slow for rich flavor",
+        "description": "Cooking onions over low heat for a longer time can caramelize them and bring out their natural sweetness, adding depth and richness to dishes like biryanis or curries."
+      },
+      {
+        "id": 6,
+        "title": "Add a pinch of baking soda to cooking water for green vegetables",
+        "description": "Adding a pinch of baking soda to the cooking water for green vegetables like spinach or broccoli can help retain their bright green color and prevent them from turning drab."
+      }
+    ]
+}
+  
