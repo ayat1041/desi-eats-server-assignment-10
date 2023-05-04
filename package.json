@@ -1,7 +1,6 @@
 {
   "name": "desi_eats_server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,9 @@
   "bugs": {
     "url": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-ayat1041/issues"
   },
-  "homepage": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-ayat1041#readme"
+  "homepage": "https://github.com/programming-hero-web-course-4/b7a10-chef-recipe-hunter-server-side-ayat1041#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
